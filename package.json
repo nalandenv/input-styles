@@ -1,0 +1,25 @@
+{
+  "name": "styled-form-inputs",
+  "version": "1.0.0",
+  "description": "This is the showcase of different style inputs which can be done with plain html & css.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalandenv/input-styles.git"
+  },
+  "keywords": [
+    "input",
+    "netflix",
+    "form",
+    "text"
+  ],
+  "author": "Nikhil Nalande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalandenv/input-styles/issues"
+  },
+  "homepage": "https://github.com/nalandenv/input-styles#readme"
+}
